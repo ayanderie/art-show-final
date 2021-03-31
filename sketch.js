@@ -97,7 +97,4 @@ function draw() {
   text("• More Education and Awareness about water scarcity", 980, 1095);
   text("• Appropriately price water", 980, 1130);
   text("• Developing water filtration systems to make water safe to drink", 980, 1170);
-  rotate(60);
-  text("༊*·˚ ࿐ ࿔*:･ﾟ ✧˖*°࿐ ˚ ༘♡ ·˚ ₊˚ˑ༄ؘ", 100, 700);
-
 }
